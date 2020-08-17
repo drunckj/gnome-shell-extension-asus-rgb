@@ -1,0 +1,10 @@
+{
+    "name" : "RGB",
+    "description" : "Rgb control for asus laptops",
+    "shell-version" : [
+        "3.36"
+    ],
+    "url" : "",
+    "uuid" : "rgb@drunkcj.com",
+    "version" : 1.0
+}

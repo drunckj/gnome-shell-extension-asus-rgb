@@ -15,3 +15,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
+# for kde users 
+ive created a bash desktop script for easy switching of rgb for kde : https://github.com/drunckj/rog-rgb-control
+ill probably try to create an extension for it sometime in the future
+

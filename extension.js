@@ -5,8 +5,6 @@ const Gio = imports.gi.Gio;
 const PanelMenu = imports.ui.panelMenu;
 const PopupMenu = imports.ui.popupMenu;
 const Me = imports.misc.extensionUtils.getCurrentExtension();
-//const { exec } = require('child_process');
-//import { spawn } from "child_process";
 const GLib = imports.gi.GLib;
 let myPopup;
 
@@ -101,32 +99,7 @@ black.connect('activate', () => {
       bright("3");
     });
 
-    //one.connect('activate', () => {
-      //bright("1");
-    //});
-    //one.connect('activate', () => {
-     // check("1");
-    //});
     
-    //let two=new PopupMenu.PopupMenuItem('2');
-    //let three=new PopupMenu.PopupMenuItem('3');
-    ///this.subItem.menu.addMenuItem(one, 0);
-    //this.subItem.menu.addMenuItem(two, 1);
-    //this.subItem.menu.addMenuItem(three, 2);
-    //one.connect('activate',() => {
-      //bright("1");
-    //});
-    //two.connect('activate',() => {
-      //bright("2");
-    //});
-    //three.connect('activate',() => {
-      //bright("3");
-    //});
-
-    // you can close, open and toggle the menu with
-    // this.menu.close();
-    // this.menu.open();
-    // this.menu.toggle();
   }
 });
 //------------------------------------------------------------------------------

@@ -1,5 +1,6 @@
 # gnome-shell-extension-asus-rgb
 gnome extension to control rgb lighting of asus laptops
+
 extension link : https://extensions.gnome.org/extension/3454/rgb/
 
 ## extension for managing rgb on your asus laptop

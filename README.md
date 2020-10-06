@@ -5,6 +5,11 @@ extension link : https://extensions.gnome.org/extension/3454/rgb/
 
 ## extension for managing rgb on your asus laptop
 ![Screenshot](/screenshots/ss.png)
+### advance menu
+![Advance menu](/screenshots/ss3.png)
+## Update
+if installing version 2 of extension u need to install one addtional file: https://github.com/drunckj/rog-rgb-control/releases/download/v2.0/RogRgbControl.deb
+
 
 ## requirements 
 - rogauracore 
@@ -17,8 +22,7 @@ chmod +x setup.sh
 ./setup.sh
 ```
 
-# for kde users 
-ive created a bash desktop script for easy switching of rgb for kde : https://github.com/drunckj/rog-rgb-control
-ill probably try to create an extension for it sometime in the future
+# for other desktop environments 
+ive created a full app for managing rgb lights on rog machines:  https://github.com/drunckj/rog-rgb-control
 
 #### Want to buy me a coffee: https://www.paypal.me/drunkcj

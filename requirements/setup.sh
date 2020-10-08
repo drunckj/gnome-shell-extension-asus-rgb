@@ -8,5 +8,5 @@ autoreconf -i
 ./configure
 make
 make install
-chown root.root /usr/local/bin/rogauracore
-chown u+s /usr/local/bin/rogauracore
+sudo chown root.root /usr/local/bin/rogauracore
+sudo chown u+s /usr/local/bin/rogauracore

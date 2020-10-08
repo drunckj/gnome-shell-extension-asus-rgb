@@ -9,4 +9,4 @@ autoreconf -i
 make
 make install
 sudo chown root.root /usr/local/bin/rogauracore
-sudo chown u+s /usr/local/bin/rogauracore
+sudo chmod g+s /usr/local/bin/rogauracore
